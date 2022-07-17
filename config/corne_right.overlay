@@ -3,6 +3,8 @@
  *
  * SPDX-License-Identifier: MIT
  */
+ 
+ #include "corne.dtsi"
 
 
 &default_transform {
